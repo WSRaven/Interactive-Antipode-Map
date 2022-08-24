@@ -1,0 +1,66 @@
+//---------------------------------------------------------------------------------------------------//
+                                            //LANDING PAGE//
+
+#landing-page-background {
+    background-image: /home/wraven/Documents/Work Files/Programming/Independent Projects/Interactive-Antipode-Map/Graphics/WorldMapMainPageBackground.jpg;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+#landing-page-banner {
+    text-align: center;
+    color: #0099cc;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial;
+}
+
+//---------------------------------------------------------------------------------------------------//
+                                            //BUTTONS//
+    //(make page specific or just button-type-a or -b?)
+
+//(button box to go to the map) {
+    //background: (gradient);
+    //border: solid 1px #(mauve);
+    //text-color: white;
+    //text-shadow: 0 1px 0 #(super light gray);
+    //text-align: center;
+//}
+
+    //(button box to go to the map):hover {
+        //background: (gradient, slightly darker);
+        //text-align: center;
+    //}
+
+    //(button box to go to the map):active {
+        //background: (gradient, slightly more dark);
+        //border-shadow: solid 1px #(gray);
+        //text-align: center;
+    //}
+
+//button box to go to the preset points and analysis page {
+    //background: (gradient);
+    //border: solid 1px #(mauve);
+    //text-color: white;
+    //text-shadow: 0 1px 0 #(super light gray);
+    //text-align: center;
+//}
+
+    //(button box to go to the map):hover {
+        //background: (gradient, slightly darker);
+        //text-align: center;
+    //}
+
+    //(button box to go to the map):active {
+        //background: (gradient, slightly more dark);
+        //border-shadow: solid 1px #(gray);
+        //text-align: center;
+    //}
+
+    //---------------------------------------------------------------------------------------------------//
+                                            //PRESET DATA PAGE//
+
+//(table) {
+    //table-layout: auto
+    //column-count: auto
+//}    
