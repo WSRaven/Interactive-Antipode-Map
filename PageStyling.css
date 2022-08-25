@@ -1,4 +1,4 @@
-//---------------------------------------------------------------------------------------------------//
+/* //---------------------------------------------------------------------------------------------------//
                                             //LANDING PAGE//
 
 #landing-page-background {
@@ -6,7 +6,7 @@
     background-size: cover;
     background-attachment: scroll;
 }
-
+*/
 #landing-page-banner {
     text-align: center;
     color: #0099cc;
@@ -14,7 +14,7 @@
     font-size: 30px;
     font-family: Arial;
 }
-
+/* 
 //---------------------------------------------------------------------------------------------------//
                                             //BUTTONS//
     //(make page specific or just button-type-a or -b?)
@@ -63,4 +63,4 @@
 //(table) {
     //table-layout: auto
     //column-count: auto
-//}    
+//}     */
